@@ -9,3 +9,19 @@ body
 main p{
     text-shadow: 5px 5px black;
 }
+body
+{background-color:green}
+main
+{font-family: Times New Roman}
+main
+{font-size: 28}
+body
+{font-size: 30}
+img{
+    display: block;
+    margin: auto;
+img {
+    width: 90;
+    height: 70;
+}
+
