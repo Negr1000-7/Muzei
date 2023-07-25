@@ -1,4 +1,3 @@
-}
 body
 {background-color:green}
 main
@@ -9,8 +8,12 @@ body
 {font-size: 30}
 img{
     display: block;
-    margin: auto;
-img {
-    width: 90;
-    height: 70;
+    margin: auto;}
+
+p:hover{
+    color: black;
+    font-size: 50px;
+    border: black 5px dashed;
+    transform: all 5s ease-out
+    
 }
