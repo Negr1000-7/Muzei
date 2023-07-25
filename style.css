@@ -6,7 +6,12 @@ main
 {font-size: 26}
 body
 {font-size: 30}
-main p{
-    text-shadow: 5px 5px black;
+a:hover{
+    color: black;
+    font-size: 50px;
+    border: black 5px dashed;
+    transform: all 5s ease-out
+    
+}
 
 
