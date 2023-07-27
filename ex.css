@@ -6,9 +6,6 @@ main
 {font-size: 28}
 body
 {font-size: 30}
-img{
-    display: block;
-    margin: auto;}
 
 p:hover{
     color: black;
@@ -17,3 +14,6 @@ p:hover{
     transform: all 5s ease-out
     
 }
+img{width: 350}
+
+
