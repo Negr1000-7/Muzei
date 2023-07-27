@@ -13,5 +13,21 @@ a:hover{
     transform: all 5s ease-out
     
 }
+footer 
+a{
+    border: 3px blue solid;
+    text-decoration: none
+                                                    
+    
+}
+main
+a{
+    text-decoration: none
+}
+hearder
+a{
+    text-decoration: none
+}
+
 
 
