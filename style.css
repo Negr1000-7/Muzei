@@ -1,11 +1,13 @@
 body
 {background-color:green}
 main
-{font-family: Times New Roman}
+{font-family: Monospace}
 main
 {font-size: 40}
 body
 {font-size: 40}
+{font-family: Monospace}
+body
 a:hover{
     color: black;
     font-size: 50px;
@@ -27,5 +29,7 @@ a{
     text-decoration: none
 }
 
+
+    
 
     
