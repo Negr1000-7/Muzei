@@ -10,8 +10,12 @@ a:hover{
     color: black;
     font-size: 50px;
     border: black 5px dashed;
-    transform: all 5s ease-out
-    
+    transform: all 5s ease-out}
+    img{
+        display:block;
+        margin:auto;
+        justify-content: center;
+    }
 }
 footer 
 a{
@@ -20,14 +24,15 @@ a{
                                                     
     
 }
-main
+main{
+img{
+    
+}
 a{
     text-decoration: none
 }
 hearder
-a{
+
     text-decoration: none
 }
-
-
 
