@@ -5,3 +5,8 @@ body {background-color: green}
  main p{
      padding: 5px;
  }
+ img{
+     display:block;
+        margin:auto;
+        justify-content: center;
+ }
