@@ -2,3 +2,6 @@ body {background-color: green}
  body {font-family: Times New Roman}
  body {font-size: 32}
  img{width: 500}
+ main p{
+     padding: 5px;
+ }
