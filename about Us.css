@@ -4,4 +4,8 @@ body
 {font-size:30 }
 head
 {font-family: Times New Roman}
-img{width:600}
+img{
+    display:block;
+        margin:auto;
+        justify-content: center;
+    }
